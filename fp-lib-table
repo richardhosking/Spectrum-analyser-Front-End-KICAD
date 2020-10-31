@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SpectrumAnalyser)(type KiCad)(uri ${KIPRJMOD}/SpectrumAnalyser.pretty)(options "")(descr ""))
+  (lib (name lib)(type KiCad)(uri /home/richard/Desktop/Kicad/lib.pretty)(options "")(descr ""))
+)

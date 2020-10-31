@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name SpectrumAnalyser-cache)(type Legacy)(uri ${KICAD_USER_SYMBOL_DIR}/SpectrumAnalyser-cache.lib)(options "")(descr ""))
+  (lib (name SpectrumAnalyser-cache1)(type Legacy)(uri ${KICAD_USER_SYMBOL_DIR}/SpectrumAnalyser-cache1.lib)(options "")(descr ""))
+  (lib (name SpecAnFrontEnd-rescue)(type Legacy)(uri ${KIPRJMOD}/SpecAnFrontEnd-rescue.lib)(options "")(descr ""))
+)
